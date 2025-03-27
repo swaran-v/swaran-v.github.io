@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "prof.jpg"
-  name             : "Swaran \/"
+  name             : "Swaran"
   pronouns         : # example: "she/her"  
   bio              : "Researcher and aspiring academic&scicommer. Worked in the development sector and academia on Agri-Food Systems, Water and Public Policy"
   location         : "South Asia"
@@ -50,7 +50,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -78,9 +78,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapter'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Popular Articles'    
   conferences:
     title: 'Conference Papers'
 

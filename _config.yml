@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "EcoAgriFood Labs"
+title                    : "EcoAgriFood LABS"
 title_separator          : "-"
 name                     : &name "swaran.v"
-description              : &description "Public Policy | Governance of Natural Resources | STS"
+description              : &description "Researcher | EcoAgriFood LABS: Public Policy - Governance of Natural Resources -STS"
 url                      : https://swaran-v.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,7 @@ author:
   avatar           : "prof.jpg"
   name             : "Swaran"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher and aspiring academic&scicommer. Worked in the development sector and academia on Agri-Food Systems, Water and Public Policy"
+  bio              : "Researcher and aspiring academic-scicommer. My PhD on Millets through the multispectral lens of STS-Public Policy-Economic:Environmental History- was guided by <a href= "https://www.rudra.iitb.ac.in/pc "target="_blank">Prof. Pennan Chinnasamy</a> at <a href="https://www.ctara.iitb.ac.in/" "target="_blank">C-TARA</a> "
   location         : "South Asia"
   #employer         : "Red Brick University"
   #uri              : # URL

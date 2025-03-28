@@ -2,7 +2,7 @@
 title: "From Resilience to Vulnerability: Indigenous Agri-Food Systems of Wayanad District"
 collection: publications
 category: books
-permalink: 'https://link.springer.com/chapter/10.1007/978-981-99-2206-2_21'
+permalink: /publication/chap1
 excerpt: 'This chapter is drawn from a part of my Master's dissertation'
 date: 2023-10-01
 venue: 'Journal 1'

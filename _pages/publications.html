@@ -10,7 +10,7 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
+      {% if post.category != category %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}

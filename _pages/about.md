@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-EcoAgriFood LABS is more like a community in the making. To put it loosely, I worked on policy, practice, culture, climate adaptation and governance-related aspects of Water, Agroecology, Food, and Indigenous Knowledge Systems.  [EcoAgriFood](https://www.unescwa.org/sd-glossary/eco-agri-food-system) is one term that I think sits closely with what I have been doing. LABS would be a backronym for Leveraging Agroecology and Academia for a Better Society. 
+EcoAgriFood LABS is more like a community in the making. To put it loosely, I worked on policy, practice, culture, climate adaptation and governance-related aspects of Water, Agroecology, Food, and Indigenous Knowledge Systems.  [EcoAgriFood](https://www.unescwa.org/sd-glossary/eco-agri-food-system) is one term that I think sits closely with what I have been doing. LABS would be a backronym for Leveraging Agroecology and Academia for Bridging Societies. 
 
-The idea of LABS is to bring together people and build a community that does seriously fun stuff that matters! If this resonates with you, let's have a chat. I am available at: first name @ 👁️👁️☕🐝dot ac dot 🇮 🇳 
+The idea of LABS is to bring together people and build a community that does seriously fun stuff that matters! If this resonates with you, let's have a chat. I am available at: swaran🅰🆃iitb🅳🅾🆃ac🅳🅾🆃IN
 
 {% comment %}
 [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
